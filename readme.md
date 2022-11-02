@@ -19,5 +19,5 @@ c. data_process.py contains code for processing molecules that cannot calculate 
 d. get_wf_results.py contains code for getting values from wavefunctions.    
 
 ## Ensemble_Learning
-Ablation+Different_ML contains code for ablation studies and comparisons with different machine learning models.    
-imbalance.py contains code for experiments with imbalanced data sets.
+a. Ablation+Different_ML contains code for ablation studies and comparisons with different machine learning models.    
+b. imbalance.py contains code for experiments with imbalanced data sets.
