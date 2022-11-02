@@ -1,4 +1,4 @@
-# Quantum Chemistry in Molecular Toxicity Prediction: A survey （QCMTP）
+# QuantumMTP: Utilizing quantum chemistry with Ensemble Learning for Molecular Toxicity Prediction
 
 ## Requirements
 RDKit
