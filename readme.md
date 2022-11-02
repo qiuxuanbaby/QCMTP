@@ -1,14 +1,14 @@
 # QuantumMTP: Utilizing quantum chemistry with Ensemble Learning for Molecular Toxicity Prediction
 
 ## Requirements
-RDKit
-PSi4
-sklearn
-numpy
-matplotlib
-pandas
-seaborn
-
+RDKit    
+PSi4    
+sklearn    
+numpy    
+matplotlib    
+pandas    
+seaborn    
+    
 To install RDKit, please follow the instructions: http://www.rdkit.org/docs/Install.html
 
 ## Quantum_Chemistry 
